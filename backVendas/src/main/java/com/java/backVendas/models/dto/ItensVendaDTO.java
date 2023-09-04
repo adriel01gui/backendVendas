@@ -7,5 +7,6 @@ public class ItensVendaDTO {
 
     private ProdutoDTO produto;
     private VendaDTO venda;
-    private Double quantidade;
+    private Integer quantidade;
+    private Double total;
 }
